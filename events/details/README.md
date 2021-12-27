@@ -1,0 +1,1 @@
+This folder is empty. To see a list of all events, please visit the [events](/events) page.

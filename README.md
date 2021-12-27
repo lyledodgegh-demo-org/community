@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<!-- for a release - we are modelling the cncf release page at cncf-cncf-online-programs-presents-cncf-live-webinar-kubernetes-123-release/ -->
+<!-- for an end user - we are modelling the cncf end user research group at https://community.cncf.io/research-end-user-group/ -->
 
-You can use the [editor on GitHub](https://github.com/lyledodge-playground-organization/community/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*This folder (community) should end up being a root level repository of the organization, so that the url ends up being github.com/org/community/ - much like https://community.cncf.io/, we could easily have github.com/myorg/community become https://community.myorg.io/.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Community. The communities below are in support of the Reference Implementation open source project (todo:link).
 
-### Markdown
+# Community Groups
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **[End User Group](end-user-group)** - Monthly cadence for anyone to join and ask questions to the project stakeholders and maintainers. All are welcome to join.
+- **[Product Management Group](product-roadmap-group)** - Aligning near the end of each sprint cycle, solidifying the next few sprint cycle high level tasks. Limited audience by invitation to start, moving to all welcome after a few iterations. See the [todo:link to pm community page](http://#) for a link to the agenda where you can suggest a topic, and request an invite.
+- **[Events](events)** - Serving multiple functions, the events page is a home for things like public release meetings, public webinars, conference events, and more.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lyledodge-playground-organization/community/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Quetions? Please reach out to (todo:where do we want to send people?).
