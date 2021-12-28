@@ -2,6 +2,13 @@
 
 <!-- This is a sample meeting agenda markdown for creating a GitHub Issue template from https://thedigitalworkplace.com/articles/virtual-meeting-agenda-template/ -->
 
+## Meeting information
+
+- date and time including time zone
+- link to join the meeting
+- any alternate dial in info
+- link to the finalized agenda for the meeting
+
 ## Meeting ground rules
 
 Add a link here to make sure your meeting ground rules or working agreement is in place.
