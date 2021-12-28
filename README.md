@@ -24,4 +24,8 @@ Welcome to the **Open Source Reference Implementation** Community. The communiti
   - Set up some issue templates. Bug? Feature? Neither? Agenda for a meeting? Create these at REPO_URL/issues/templates/edit.
     - See this [Sample Meeting Agenda](sample-meeting-agenda.md).
 
+## To dos:
+
+- Leverage the Projects Beta - use that to manage what's in progress, done, etc across the community (maintainers, governance, setting agendas, etc).
+
 Quetions? Please reach out to todo:contact-information.
