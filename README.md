@@ -16,7 +16,12 @@ Welcome to the **Open Source Reference Implementation** Community. The communiti
 - [OpenSource.Guide](https://opensource.guide)
   - [Building a Community](https://opensource.guide/building-community/)
   - Adopt a Code of Conduct, like the [Contributor Covenant](https://contributor-covenant.org/) that is used by Kubernetes and 40k+ Open Source projects. Update the [INSERT CONTACT METHOD] in the code_of_conduct.md file.
+  - Figure out what your CONTRIBUTING.md file should have for people contributing to your project. [Microsoft's Contributor License Agreement](https://cla.opensource.microsoft.com/) is a good example.
   - Regularly look at the **GitHub Insights** tab on your repo. Figure out which metrics you want to focus on for the community, and which to focus on for the code repository.
   - Look at the Community Profile under the Insights tab and make sure those are all green check marks.
+  - You might have a separate private repository for managing internal issues. Make sure you know what's available in [free vs. paid tiers](https://github.com/pricing#compare-features). For example, pages, wikis, requiring approval on code merges, multiple reviewers are all paid features for private repos.
+  - Figure out what you want in a wiki vs pages vs docs.
+  - Set up some issue templates. Bug? Feature? Neither? Agenda for a meeting? Create these at REPO_URL/issues/templates/edit.
+    - See this [Sample Meeting Agenda](sample-meeting-agenda.md).
 
 Quetions? Please reach out to todo:contact-information.
