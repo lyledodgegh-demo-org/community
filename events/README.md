@@ -1,1 +1,1 @@
-This page is a list of all upcoming events.
+This page is a list of all upcoming events. They should be chronologically sorted.
